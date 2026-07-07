@@ -8,6 +8,9 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
+## 📸 Repository Preview
+
+![Repository Homepage](images/repository.png)
 
 ## 📌 Project Overview
 
@@ -128,6 +131,15 @@ Burger_Sales_Forecasting/
 | 10 | LSTM Experiment 2 |
 
 ---
+## 📊 Exploratory Data Analysis
+
+### Sales Distribution
+
+![Sales prediction](images/actual sales vs predicted.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation Heatmaps.png)
 
 ## 🤖 Models Developed
 
@@ -160,6 +172,19 @@ Improved LSTM architecture using:
 | LSTM Experiment 1 | 969.92 | 1088.14 | 0.0017 | 62.15% |
 | LSTM Experiment 2 | 954.69 | 1082.29 | 0.0124 | 61.16% |
 
+## 📈 Model Visualizations
+
+### LightGBM Feature Importance
+
+![Feature Importance](images/Feature Importance.png)
+
+### LightGBM Predictions
+
+![LightGBM Predictions](images/LightGBM prediction.png)
+
+### LSTM Training History
+
+![LSTM Training History](images/Training curves.png)
 ---
 
 ## 📈 Key Findings
