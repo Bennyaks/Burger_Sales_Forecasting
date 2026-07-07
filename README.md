@@ -135,11 +135,11 @@ Burger_Sales_Forecasting/
 
 ### Sales Distribution
 
-![Sales prediction](images/actual sales vs predicted.png)
+![Sales prediction](images/actual_sales_vs_predicted.png)
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](images/correlation Heatmaps.png)
+![Correlation Heatmap](images/correlation_Heatmaps.png)
 
 ## 🤖 Models Developed
 
@@ -176,15 +176,15 @@ Improved LSTM architecture using:
 
 ### LightGBM Feature Importance
 
-![Feature Importance](images/Feature Importance plot.png)
+![Feature Importance](images/Feature_Importance_plot.png)
 
 ### LightGBM Predictions
 
-![LightGBM Predictions](images/LightGBM prediction plot.png)
+![LightGBM Predictions](images/LightGBM_prediction_plot.png)
 
 ### LSTM Training History
 
-![LSTM Training History](images/Training curves.png)
+![LSTM Training History](images/Training_curves.png)
 ---
 
 ## 📈 Key Findings
