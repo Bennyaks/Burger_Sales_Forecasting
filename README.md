@@ -176,11 +176,11 @@ Improved LSTM architecture using:
 
 ### LightGBM Feature Importance
 
-![Feature Importance](images/Feature Importance.png)
+![Feature Importance](images/Feature Importance plot.png)
 
 ### LightGBM Predictions
 
-![LightGBM Predictions](images/LightGBM prediction.png)
+![LightGBM Predictions](images/LightGBM prediction plot.png)
 
 ### LSTM Training History
 
