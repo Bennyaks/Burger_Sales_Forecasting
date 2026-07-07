@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Model files
+models/*.h5
+models/*.keras
+models/*.pkl
+
+# Generated outputs
+outputs/
+
+# Operating System files
+.DS_Store
+Thumbs.db
