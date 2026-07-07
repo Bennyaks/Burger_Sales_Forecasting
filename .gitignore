@@ -1,25 +1,44 @@
-# Python cache
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
 
-# Jupyter checkpoints
+# Jupyter
 .ipynb_checkpoints/
 
 # Virtual environments
-venv/
 .venv/
+venv/
+env/
 
 # VS Code
 .vscode/
 
-# Model files
-models/*.h5
-models/*.keras
-models/*.pkl
+# PyCharm
+.idea/
 
-# Generated outputs
-outputs/
-
-# Operating System files
+# macOS
 .DS_Store
+
+# Windows
 Thumbs.db
+desktop.ini
+
+# Model files (optional)
+*.h5
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Python cache
+.pytest_cache/
+
+# Build artifacts
+build/
+dist/
+
+# Environment variables
+.env
